@@ -1,0 +1,20 @@
+{
+  "name": "turnos-virtuales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=5000",
+    "dev": "live-server --port=3000"
+  },
+  "keywords": ["simulador", "turnos", "banco"],
+  "author": "Miguel Roman",
+  "license": "MIT",
+  "description": "Proyecto simulador turnos virtuales",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
