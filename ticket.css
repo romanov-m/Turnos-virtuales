@@ -1,0 +1,21 @@
+h3 {
+    color: brown;
+   }
+main {
+   text-align: center;
+}
+hr{
+    border: 1px solid #ccc;
+    margin: 20px 0;
+    }
+main h2.turno{
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    padding: 10px;
+    height: 150px;
+    width: 200px;
+    margin: 0 auto;
+    align-content: center;
+    font-size: 80px;
+    
+}
