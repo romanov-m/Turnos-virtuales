@@ -3,26 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="ticket.css">
+    <title>Ticket de espera</title>
     </head>
 <body>
-<header>
-   <h1>Interbank</h1>
-   <h2>Sede Lima</h2>
-   <hr>
-</header>
-<main>
-    <h2>Bienvenido<h2>
-    <h3>Tu turno es:</h3>
-    <h2 class="turno">B002</h2>
-    <h3>Favor esperar en la sala de espera</h3>
-    <h3>Fecha</h3>  
-    <hr>
-</main>
-<footer>
-<h3>En breve le atenderemos</h3>
-<h3>Tiempo de espera aproximado</h3>
-</footer>
+    <div class="principal">
+        <div class="header">
+            <img src="https://www.americanexpress.com/content/dam/amex/pe/network/Experiences/nuevo2020/Logo-Interbank.png" 
+                alt="Logo-Interbank">
+           <h1>Juan Manuel Avila Zavala</h1>
+        </div>
+        <div class="info"><h3>Turno Número:</h3>
+            <h2 class="turno">B002</h2>
+            <h3>Servicio Seleccionado:</h3>
+            <h3>PAGOS</h3>
+            <P id="fechaHora"></p>  
+      </div>
+        <div class="footer"><a href="https://interbank.pe/">www.interbank.pe</a>
+            <h3>Ticket válido solo si el cliente encuentra entro de la oficina</h3></div>
+    </div>
+<script src="fecha.js"></script>
 </body>
 </html>
