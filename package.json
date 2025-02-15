@@ -7,14 +7,26 @@
     "start": "live-server --port=5000",
     "dev": "live-server --port=3000"
   },
-  "keywords": ["simulador", "turnos", "banco"],
+  "keywords": [
+    "simulador",
+    "turnos",
+    "banco"
+  ],
   "author": "Miguel Roman",
   "license": "MIT",
   "description": "Proyecto simulador turnos virtuales",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.2"
   },
   "devDependencies": {
     "live-server": "^1.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanov-m/Turnos-virtuales.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romanov-m/Turnos-virtuales/issues"
+  },
+  "homepage": "https://github.com/romanov-m/Turnos-virtuales#readme"
 }
