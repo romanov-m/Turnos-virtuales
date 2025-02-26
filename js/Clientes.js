@@ -15,10 +15,10 @@ function generateRandomEmail(nombre) {
     return `${partesNombre[0]}.${partesNombre[1]}@${dominio}`;
 }
 
-// Función para generar un DNI aleatorio (9 dígitos numéricos)
+// Función para generar un DNI aleatorio (8 dígitos numéricos)
 function generateRandomDNI() {
-    // Generar un número aleatorio entre 100000000 y 999999999
-    const numero = Math.floor(Math.random() * (999999999 - 100000000 + 1)) + 100000000;
+    // Generar un número aleatorio entre 10000000 y 99999999
+    const numero = Math.floor(Math.random() * (99999999 - 10000000 + 1)) + 10000000;
     return numero.toString(); // Convertir a cadena para mantener el formato
 }
 
@@ -27,27 +27,36 @@ function generateRandomAge() {
     return Math.floor(Math.random() * (80 - 18 + 1)) + 18; // Edad entre 18 y 80 años
 }
 
-// Generar 100 clientes
-const clientes = [];
-for (let i = 0; i < 100; i++) {
+// Función para generar una persona
+function generatePerson() {
     const nombre = generateRandomName();
-    const cliente = {
+    return {
         DNI: generateRandomDNI(),
         NOMBRE: nombre,
         CORREO: generateRandomEmail(nombre),
         EDAD: generateRandomAge()
     };
-    clientes.push(cliente);
+}
+
+// Generar 100 clientes y 100 no clientes
+const baseDeDatos = {
+    clientes: [],
+    noClientes: []
+};
+
+for (let i = 0; i < 100; i++) {
+    baseDeDatos.clientes.push(generatePerson());
+    baseDeDatos.noClientes.push(generatePerson());
 }
 
 // Convertir a JSON
-const clientesJSON = JSON.stringify(clientes, null, 2);
+const baseDeDatosJSON = JSON.stringify(baseDeDatos, null, 2);
 
 // Guardar en un archivo (usando Node.js)
 // Para ejecutar esto en Git Bash, asegúrate de tener Node.js instalado
 const fs = require('fs');
-fs.writeFileSync('clientes.json', clientesJSON);
-console.log("Archivo 'clientes.json' creado con éxito.");
+fs.writeFileSync('base_de_datos.json', baseDeDatosJSON);
+console.log("Archivo 'base_de_datos.json' creado con éxito.");
 
 // Mostrar el JSON en la consola
-console.log(clientesJSON);
+console.log(baseDeDatosJSON);
