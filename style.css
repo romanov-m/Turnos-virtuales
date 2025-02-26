@@ -20,6 +20,7 @@ a, a:focus {
 #sidebar {
     min-width: 250px;
     max-width: 250px;
+    height: 100vh;
     background: #fff;
     color: #090df0;
     transition: all 0.3s;
@@ -51,10 +52,3 @@ a, a:focus {
     CONTENT STYLE
 ----------------------------------------------------- */
 
-#content {
-    width: 100%;
-    padding: 20px;
-    min-height: 100vh;
- 
-  
-}
