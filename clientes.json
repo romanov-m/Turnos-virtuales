@@ -1,0 +1,602 @@
+[
+  {
+    "DNI": "900681695",
+    "NOMBRE": "María González",
+    "CORREO": "maría.gonzález@hotmail.com",
+    "EDAD": 62
+  },
+  {
+    "DNI": "111560825",
+    "NOMBRE": "Carlos Torres",
+    "CORREO": "carlos.torres@yahoo.com",
+    "EDAD": 26
+  },
+  {
+    "DNI": "316610445",
+    "NOMBRE": "Laura Martínez",
+    "CORREO": "laura.martínez@outlook.com",
+    "EDAD": 29
+  },
+  {
+    "DNI": "908616865",
+    "NOMBRE": "Juan González",
+    "CORREO": "juan.gonzález@yahoo.com",
+    "EDAD": 60
+  },
+  {
+    "DNI": "184211060",
+    "NOMBRE": "Pedro García",
+    "CORREO": "pedro.garcía@outlook.com",
+    "EDAD": 51
+  },
+  {
+    "DNI": "690862548",
+    "NOMBRE": "Luis Sánchez",
+    "CORREO": "luis.sánchez@hotmail.com",
+    "EDAD": 32
+  },
+  {
+    "DNI": "451670346",
+    "NOMBRE": "Laura Torres",
+    "CORREO": "laura.torres@gmail.com",
+    "EDAD": 40
+  },
+  {
+    "DNI": "906783734",
+    "NOMBRE": "Pedro Fernández",
+    "CORREO": "pedro.fernández@hotmail.com",
+    "EDAD": 34
+  },
+  {
+    "DNI": "149568295",
+    "NOMBRE": "Carlos Rodríguez",
+    "CORREO": "carlos.rodríguez@outlook.com",
+    "EDAD": 67
+  },
+  {
+    "DNI": "242358519",
+    "NOMBRE": "Ana Ramírez",
+    "CORREO": "ana.ramírez@gmail.com",
+    "EDAD": 20
+  },
+  {
+    "DNI": "869922606",
+    "NOMBRE": "Isabel Torres",
+    "CORREO": "isabel.torres@hotmail.com",
+    "EDAD": 65
+  },
+  {
+    "DNI": "787971535",
+    "NOMBRE": "Juan Pérez",
+    "CORREO": "juan.pérez@hotmail.com",
+    "EDAD": 76
+  },
+  {
+    "DNI": "982552827",
+    "NOMBRE": "Laura Pérez",
+    "CORREO": "laura.pérez@gmail.com",
+    "EDAD": 21
+  },
+  {
+    "DNI": "258277510",
+    "NOMBRE": "Diego Ramírez",
+    "CORREO": "diego.ramírez@gmail.com",
+    "EDAD": 20
+  },
+  {
+    "DNI": "701612738",
+    "NOMBRE": "Ana Ramírez",
+    "CORREO": "ana.ramírez@yahoo.com",
+    "EDAD": 69
+  },
+  {
+    "DNI": "404703899",
+    "NOMBRE": "María Fernández",
+    "CORREO": "maría.fernández@outlook.com",
+    "EDAD": 60
+  },
+  {
+    "DNI": "613231277",
+    "NOMBRE": "Isabel Rodríguez",
+    "CORREO": "isabel.rodríguez@hotmail.com",
+    "EDAD": 37
+  },
+  {
+    "DNI": "504401901",
+    "NOMBRE": "María González",
+    "CORREO": "maría.gonzález@gmail.com",
+    "EDAD": 63
+  },
+  {
+    "DNI": "397680073",
+    "NOMBRE": "Luis Rodríguez",
+    "CORREO": "luis.rodríguez@gmail.com",
+    "EDAD": 21
+  },
+  {
+    "DNI": "596329955",
+    "NOMBRE": "Pedro García",
+    "CORREO": "pedro.garcía@gmail.com",
+    "EDAD": 33
+  },
+  {
+    "DNI": "908893432",
+    "NOMBRE": "Sofía Rodríguez",
+    "CORREO": "sofía.rodríguez@outlook.com",
+    "EDAD": 66
+  },
+  {
+    "DNI": "915248221",
+    "NOMBRE": "Sofía Rodríguez",
+    "CORREO": "sofía.rodríguez@outlook.com",
+    "EDAD": 43
+  },
+  {
+    "DNI": "378839224",
+    "NOMBRE": "Isabel Rodríguez",
+    "CORREO": "isabel.rodríguez@hotmail.com",
+    "EDAD": 28
+  },
+  {
+    "DNI": "160165252",
+    "NOMBRE": "Diego López",
+    "CORREO": "diego.lópez@outlook.com",
+    "EDAD": 24
+  },
+  {
+    "DNI": "986052635",
+    "NOMBRE": "Ana González",
+    "CORREO": "ana.gonzález@outlook.com",
+    "EDAD": 20
+  },
+  {
+    "DNI": "768457936",
+    "NOMBRE": "Pedro Torres",
+    "CORREO": "pedro.torres@outlook.com",
+    "EDAD": 33
+  },
+  {
+    "DNI": "261578009",
+    "NOMBRE": "Pedro Sánchez",
+    "CORREO": "pedro.sánchez@hotmail.com",
+    "EDAD": 51
+  },
+  {
+    "DNI": "185598679",
+    "NOMBRE": "Pedro López",
+    "CORREO": "pedro.lópez@outlook.com",
+    "EDAD": 45
+  },
+  {
+    "DNI": "898333321",
+    "NOMBRE": "Carlos Rodríguez",
+    "CORREO": "carlos.rodríguez@gmail.com",
+    "EDAD": 79
+  },
+  {
+    "DNI": "284198778",
+    "NOMBRE": "Laura González",
+    "CORREO": "laura.gonzález@gmail.com",
+    "EDAD": 56
+  },
+  {
+    "DNI": "306001725",
+    "NOMBRE": "Sofía González",
+    "CORREO": "sofía.gonzález@gmail.com",
+    "EDAD": 70
+  },
+  {
+    "DNI": "424182646",
+    "NOMBRE": "María García",
+    "CORREO": "maría.garcía@gmail.com",
+    "EDAD": 67
+  },
+  {
+    "DNI": "782375019",
+    "NOMBRE": "Juan Ramírez",
+    "CORREO": "juan.ramírez@gmail.com",
+    "EDAD": 46
+  },
+  {
+    "DNI": "804480776",
+    "NOMBRE": "Sofía Pérez",
+    "CORREO": "sofía.pérez@gmail.com",
+    "EDAD": 27
+  },
+  {
+    "DNI": "862702961",
+    "NOMBRE": "Juan García",
+    "CORREO": "juan.garcía@hotmail.com",
+    "EDAD": 38
+  },
+  {
+    "DNI": "598855065",
+    "NOMBRE": "Sofía Rodríguez",
+    "CORREO": "sofía.rodríguez@gmail.com",
+    "EDAD": 19
+  },
+  {
+    "DNI": "160064207",
+    "NOMBRE": "Ana Sánchez",
+    "CORREO": "ana.sánchez@gmail.com",
+    "EDAD": 47
+  },
+  {
+    "DNI": "718324777",
+    "NOMBRE": "Ana Fernández",
+    "CORREO": "ana.fernández@outlook.com",
+    "EDAD": 46
+  },
+  {
+    "DNI": "595393149",
+    "NOMBRE": "Pedro Martínez",
+    "CORREO": "pedro.martínez@outlook.com",
+    "EDAD": 19
+  },
+  {
+    "DNI": "633440532",
+    "NOMBRE": "Sofía Rodríguez",
+    "CORREO": "sofía.rodríguez@yahoo.com",
+    "EDAD": 44
+  },
+  {
+    "DNI": "422494102",
+    "NOMBRE": "Juan Pérez",
+    "CORREO": "juan.pérez@gmail.com",
+    "EDAD": 67
+  },
+  {
+    "DNI": "746964154",
+    "NOMBRE": "Juan Rodríguez",
+    "CORREO": "juan.rodríguez@outlook.com",
+    "EDAD": 54
+  },
+  {
+    "DNI": "314117710",
+    "NOMBRE": "Diego Martínez",
+    "CORREO": "diego.martínez@yahoo.com",
+    "EDAD": 78
+  },
+  {
+    "DNI": "268370324",
+    "NOMBRE": "Carlos Rodríguez",
+    "CORREO": "carlos.rodríguez@gmail.com",
+    "EDAD": 31
+  },
+  {
+    "DNI": "394778383",
+    "NOMBRE": "Sofía López",
+    "CORREO": "sofía.lópez@gmail.com",
+    "EDAD": 29
+  },
+  {
+    "DNI": "971544408",
+    "NOMBRE": "Carlos Fernández",
+    "CORREO": "carlos.fernández@hotmail.com",
+    "EDAD": 25
+  },
+  {
+    "DNI": "616735882",
+    "NOMBRE": "Juan Martínez",
+    "CORREO": "juan.martínez@hotmail.com",
+    "EDAD": 43
+  },
+  {
+    "DNI": "119544012",
+    "NOMBRE": "Juan López",
+    "CORREO": "juan.lópez@yahoo.com",
+    "EDAD": 48
+  },
+  {
+    "DNI": "485279483",
+    "NOMBRE": "Luis García",
+    "CORREO": "luis.garcía@outlook.com",
+    "EDAD": 48
+  },
+  {
+    "DNI": "734813655",
+    "NOMBRE": "Luis Ramírez",
+    "CORREO": "luis.ramírez@gmail.com",
+    "EDAD": 57
+  },
+  {
+    "DNI": "761028105",
+    "NOMBRE": "María García",
+    "CORREO": "maría.garcía@gmail.com",
+    "EDAD": 52
+  },
+  {
+    "DNI": "968964771",
+    "NOMBRE": "Sofía González",
+    "CORREO": "sofía.gonzález@gmail.com",
+    "EDAD": 24
+  },
+  {
+    "DNI": "371380290",
+    "NOMBRE": "Carlos Ramírez",
+    "CORREO": "carlos.ramírez@outlook.com",
+    "EDAD": 23
+  },
+  {
+    "DNI": "932930723",
+    "NOMBRE": "Isabel García",
+    "CORREO": "isabel.garcía@outlook.com",
+    "EDAD": 30
+  },
+  {
+    "DNI": "361611597",
+    "NOMBRE": "Luis Torres",
+    "CORREO": "luis.torres@gmail.com",
+    "EDAD": 18
+  },
+  {
+    "DNI": "570806008",
+    "NOMBRE": "María Pérez",
+    "CORREO": "maría.pérez@outlook.com",
+    "EDAD": 57
+  },
+  {
+    "DNI": "139096339",
+    "NOMBRE": "María Fernández",
+    "CORREO": "maría.fernández@outlook.com",
+    "EDAD": 43
+  },
+  {
+    "DNI": "439320608",
+    "NOMBRE": "Laura Torres",
+    "CORREO": "laura.torres@hotmail.com",
+    "EDAD": 75
+  },
+  {
+    "DNI": "572172073",
+    "NOMBRE": "Pedro Torres",
+    "CORREO": "pedro.torres@gmail.com",
+    "EDAD": 33
+  },
+  {
+    "DNI": "591617551",
+    "NOMBRE": "Juan Martínez",
+    "CORREO": "juan.martínez@hotmail.com",
+    "EDAD": 74
+  },
+  {
+    "DNI": "112103500",
+    "NOMBRE": "Sofía Rodríguez",
+    "CORREO": "sofía.rodríguez@hotmail.com",
+    "EDAD": 60
+  },
+  {
+    "DNI": "234588138",
+    "NOMBRE": "Laura González",
+    "CORREO": "laura.gonzález@outlook.com",
+    "EDAD": 26
+  },
+  {
+    "DNI": "369631978",
+    "NOMBRE": "María Fernández",
+    "CORREO": "maría.fernández@yahoo.com",
+    "EDAD": 58
+  },
+  {
+    "DNI": "635948638",
+    "NOMBRE": "Isabel Martínez",
+    "CORREO": "isabel.martínez@hotmail.com",
+    "EDAD": 30
+  },
+  {
+    "DNI": "387187976",
+    "NOMBRE": "Pedro Rodríguez",
+    "CORREO": "pedro.rodríguez@yahoo.com",
+    "EDAD": 44
+  },
+  {
+    "DNI": "884631284",
+    "NOMBRE": "María Fernández",
+    "CORREO": "maría.fernández@gmail.com",
+    "EDAD": 24
+  },
+  {
+    "DNI": "343439565",
+    "NOMBRE": "Sofía Torres",
+    "CORREO": "sofía.torres@yahoo.com",
+    "EDAD": 19
+  },
+  {
+    "DNI": "359582697",
+    "NOMBRE": "Pedro González",
+    "CORREO": "pedro.gonzález@yahoo.com",
+    "EDAD": 18
+  },
+  {
+    "DNI": "482212135",
+    "NOMBRE": "Isabel Ramírez",
+    "CORREO": "isabel.ramírez@yahoo.com",
+    "EDAD": 28
+  },
+  {
+    "DNI": "539884804",
+    "NOMBRE": "Juan Ramírez",
+    "CORREO": "juan.ramírez@outlook.com",
+    "EDAD": 40
+  },
+  {
+    "DNI": "574769878",
+    "NOMBRE": "Ana Ramírez",
+    "CORREO": "ana.ramírez@outlook.com",
+    "EDAD": 59
+  },
+  {
+    "DNI": "878701256",
+    "NOMBRE": "Laura Pérez",
+    "CORREO": "laura.pérez@gmail.com",
+    "EDAD": 73
+  },
+  {
+    "DNI": "207918278",
+    "NOMBRE": "Ana Rodríguez",
+    "CORREO": "ana.rodríguez@hotmail.com",
+    "EDAD": 22
+  },
+  {
+    "DNI": "111193028",
+    "NOMBRE": "Laura Martínez",
+    "CORREO": "laura.martínez@yahoo.com",
+    "EDAD": 53
+  },
+  {
+    "DNI": "676236051",
+    "NOMBRE": "Juan Ramírez",
+    "CORREO": "juan.ramírez@outlook.com",
+    "EDAD": 44
+  },
+  {
+    "DNI": "900663811",
+    "NOMBRE": "Sofía Torres",
+    "CORREO": "sofía.torres@gmail.com",
+    "EDAD": 39
+  },
+  {
+    "DNI": "659753216",
+    "NOMBRE": "Ana Ramírez",
+    "CORREO": "ana.ramírez@outlook.com",
+    "EDAD": 42
+  },
+  {
+    "DNI": "398956592",
+    "NOMBRE": "Laura González",
+    "CORREO": "laura.gonzález@hotmail.com",
+    "EDAD": 25
+  },
+  {
+    "DNI": "998921912",
+    "NOMBRE": "Diego Martínez",
+    "CORREO": "diego.martínez@gmail.com",
+    "EDAD": 24
+  },
+  {
+    "DNI": "744515547",
+    "NOMBRE": "Carlos Sánchez",
+    "CORREO": "carlos.sánchez@hotmail.com",
+    "EDAD": 21
+  },
+  {
+    "DNI": "434979526",
+    "NOMBRE": "Ana Rodríguez",
+    "CORREO": "ana.rodríguez@outlook.com",
+    "EDAD": 32
+  },
+  {
+    "DNI": "441493249",
+    "NOMBRE": "Carlos González",
+    "CORREO": "carlos.gonzález@yahoo.com",
+    "EDAD": 68
+  },
+  {
+    "DNI": "876207531",
+    "NOMBRE": "Diego Torres",
+    "CORREO": "diego.torres@gmail.com",
+    "EDAD": 33
+  },
+  {
+    "DNI": "299734258",
+    "NOMBRE": "Luis López",
+    "CORREO": "luis.lópez@gmail.com",
+    "EDAD": 51
+  },
+  {
+    "DNI": "119762224",
+    "NOMBRE": "Carlos López",
+    "CORREO": "carlos.lópez@outlook.com",
+    "EDAD": 67
+  },
+  {
+    "DNI": "922256757",
+    "NOMBRE": "Juan González",
+    "CORREO": "juan.gonzález@gmail.com",
+    "EDAD": 47
+  },
+  {
+    "DNI": "472183934",
+    "NOMBRE": "Ana González",
+    "CORREO": "ana.gonzález@yahoo.com",
+    "EDAD": 50
+  },
+  {
+    "DNI": "357234055",
+    "NOMBRE": "Sofía Torres",
+    "CORREO": "sofía.torres@gmail.com",
+    "EDAD": 76
+  },
+  {
+    "DNI": "208788889",
+    "NOMBRE": "María Torres",
+    "CORREO": "maría.torres@yahoo.com",
+    "EDAD": 71
+  },
+  {
+    "DNI": "396296924",
+    "NOMBRE": "Sofía Pérez",
+    "CORREO": "sofía.pérez@yahoo.com",
+    "EDAD": 60
+  },
+  {
+    "DNI": "900927289",
+    "NOMBRE": "Ana Ramírez",
+    "CORREO": "ana.ramírez@hotmail.com",
+    "EDAD": 43
+  },
+  {
+    "DNI": "591818845",
+    "NOMBRE": "Diego Sánchez",
+    "CORREO": "diego.sánchez@outlook.com",
+    "EDAD": 77
+  },
+  {
+    "DNI": "403541676",
+    "NOMBRE": "Juan Rodríguez",
+    "CORREO": "juan.rodríguez@gmail.com",
+    "EDAD": 19
+  },
+  {
+    "DNI": "434207367",
+    "NOMBRE": "Laura González",
+    "CORREO": "laura.gonzález@yahoo.com",
+    "EDAD": 57
+  },
+  {
+    "DNI": "346360294",
+    "NOMBRE": "Luis López",
+    "CORREO": "luis.lópez@outlook.com",
+    "EDAD": 65
+  },
+  {
+    "DNI": "449056459",
+    "NOMBRE": "Laura Pérez",
+    "CORREO": "laura.pérez@yahoo.com",
+    "EDAD": 67
+  },
+  {
+    "DNI": "758241771",
+    "NOMBRE": "Ana García",
+    "CORREO": "ana.garcía@outlook.com",
+    "EDAD": 19
+  },
+  {
+    "DNI": "393484863",
+    "NOMBRE": "Ana Martínez",
+    "CORREO": "ana.martínez@hotmail.com",
+    "EDAD": 21
+  },
+  {
+    "DNI": "961908584",
+    "NOMBRE": "Juan Pérez",
+    "CORREO": "juan.pérez@outlook.com",
+    "EDAD": 36
+  },
+  {
+    "DNI": "958794008",
+    "NOMBRE": "Sofía Martínez",
+    "CORREO": "sofía.martínez@gmail.com",
+    "EDAD": 33
+  }
+]
