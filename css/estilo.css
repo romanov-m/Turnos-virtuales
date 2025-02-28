@@ -22,11 +22,13 @@ body {
     width: 23rem;
     height: 5.5rem;
     margin-top: 2rem;
+    /* border: 2px solid purple; */
 }
 
-#contenido {
+/* #contenido {
     height: 21rem;
-}
+    border: 2px solid black;
+} */
 
 .option-button:hover {
     background-color: #f0f0f0;
@@ -37,14 +39,9 @@ footer {
     height: 2rem;
     color: #666;
     font-size: .8rem;
+    margin-top: 9rem;
 }
 
 .help-text strong {
     color: #008000;
 }
-
-.btn, .form-control {
-    height: 4rem;
-    margin-top: 8rem;
-}
-
