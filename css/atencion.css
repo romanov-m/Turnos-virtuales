@@ -1,11 +1,12 @@
-.empleado h3{
- background-color: #b295cd;
- padding: 1.6rem;
-}
-.boton{
-    width: 10rem;
-    height: 5rem;
-}
-.empleado p{
-    background-color: rgb(171, 206, 230);
-}
+.empleado h5{
+    background-color: #d2b3ee;
+   }
+   .boton{
+   background-color: rgb(101, 43, 226);
+   }
+   .boton:hover{
+       background-color: #886ff8;
+   }
+   .empleado p{
+       background-color: rgb(171, 206, 230);
+   }
