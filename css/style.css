@@ -1,0 +1,14 @@
+.panel {
+    width: 250px;
+    height: 100vh;
+    background: #f8f9fa;
+    padding: 20px;
+    position: fixed;
+}
+.content {
+    margin-left: 270px;
+    padding: 20px;
+}
+.d-none {
+    display: none;
+}
